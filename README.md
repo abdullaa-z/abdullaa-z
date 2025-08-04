@@ -9,4 +9,3 @@ Always up for learning new tech and making cool projects.
 - 📫 How to reach me:
   - Instagram: [@abdullaa.zzz](https://instagram.com/abdullaa.zzz)
   - Discord: @slightblur
-- ⚡ Fun fact: I like cats to the point where I don't care if they hurt
