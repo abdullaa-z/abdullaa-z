@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hey! 
+I’m Abdullah - a student, Android developer, and a bit of a web & graphics enthusiast.  
+I like building things, including a handwritten digit recognition neural network (yep, AI stuff!).  
+Find me on Instagram: [@abdullaa.zzz](https://instagram.com/abdullaa.zzz)  
+Always up for learning new tech and making cool projects.  
 
-<!--
-**abdullaa-z/abdullaa-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a web based POS System
+- 🌱 I’m currently learning web development, about backend to be exact
+- 📫 How to reach me:
+  - Instagram: [@abdullaa.zzz](https://instagram.com/abdullaa.zzz)
+  - Discord: @slightblur
+- ⚡ Fun fact: I like cats to the point where I don't care if they hurt
